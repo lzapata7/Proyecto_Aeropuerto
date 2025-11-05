@@ -1,8 +1,6 @@
 services:
   - name: proyecto_aeropuerto
     type: web
-    nombre de sistema: proyecto_aeropuerto
-    user: l.zapata@alumno.um.edu.ar
     plan: free
     ipAllowList: []
 
