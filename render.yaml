@@ -1,0 +1,7 @@
+sistema de gestion:
+  - name: proyecto_aeropuerto
+    nombre de sistema: proyecto_aeropuerto
+    user: l.zapata@alumno.um.edu.ar
+    plan: free
+    ipAllowList: []
+
